@@ -6,7 +6,7 @@ order: 1
 tags: Jax-tag
 ---
 
-## Example
+## Welcome
 
 As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate about a particular topic send your Jax OWASP Leaders a message.
 If you haven't signed up for a community OWASP group request access today.  https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter
