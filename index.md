@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: Home of the OWASP Jacksonville Chapter
-tags: Jax-tag
+tags: tab-jax
 level: 4
 region: United States
 
