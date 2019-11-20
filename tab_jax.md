@@ -1,9 +1,12 @@
 ---
-title: OWASP Jacksonville
+
+title: jax
+displaytext: OWASP Jacksonville
 layout:  null
 tab: true
 order: 1
 tags: Jax-tag
+
 ---
 
 ## Welcome

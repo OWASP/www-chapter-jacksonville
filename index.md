@@ -1,9 +1,11 @@
 ---
+
 layout: col-sidebar
 title: Home of the OWASP Jacksonville Chapter
 tags: Jax-tag
 level: 4
 region: United States
+
 ---
 
 Who We Are
