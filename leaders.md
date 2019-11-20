@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* Kevin Johnson mailto://kevin.Johnson@owasp.org
+* Larry Franklin mailto://larry.franklin@owasp.org
