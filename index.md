@@ -1,21 +1,18 @@
 ---
-
 layout: col-sidebar
-title: OWASP jacksonville
+title:Home of the OWASP Jacksonville Chapter
+
 tags: example-tag
 level: 4
 
 region: United States
 
 ---
+OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are run independently and guided by the Chapter_Leader_Handbook. As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation site (https://www.owasp.org/index.php/Local_Chapter_Supporter). To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Our Sponsors: Secure Ideas, Robert Half Technology Jacksonville
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
 
