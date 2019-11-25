@@ -19,6 +19,7 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257 beginning at 630pm until 830pm.
 
+**Be sure to sign up at our [MeetUp page](https://www.meetup.com/OWASP-Jacksonville-Chapter/)**
 
 As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion o$
 If you haven't signed up for a community OWASP group request access today.  [Community Group](https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter)
@@ -54,8 +55,6 @@ April 8, 2019 - Nawwar Kabbani - Modern authentication and authorization with OA
 May 13, 2019 - Guest Speaker Lev Shaket - GatsbyJs and AWS Lambda // Statically generate passphrases with dreidelware.org
 
 June 10, 2019 - Guest speaker Travis Phillips - Pwntools
-
-Be sure to sign up at our Meetup page https://www.meetup.com/OWASP-Jacksonville-Chapter/
 
 July 8, 2019 - Kevin Johnson CEO and owner of Secure Ideas LLC, - OWASP WishBook, an incite into OWASP projects and how you can contribute.
 
