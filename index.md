@@ -21,7 +21,8 @@ Our meetings are offered on the **2nd Monday of every month**. Our meetings are 
 
 **Be sure to sign up at our [MeetUp page](https://www.meetup.com/OWASP-Jacksonville-Chapter/)**
 
-As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion o$
+As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Larry Franklin](mailto:larry.franklin@owasp.org) to schedule a topic.
+
 If you haven't signed up for a community OWASP group request access today.  [Community Group](https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter)
 
 
