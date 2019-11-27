@@ -2,8 +2,6 @@
 
 layout: col-sidebar
 title: Home of the OWASP Jacksonville Chapter
-tags: tab-jax
-level:
 region: United States
 
 ---
@@ -12,12 +10,14 @@ region: United States
 
 OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security.  Local chapters are run independently and guided by the Chapter_Leader_Handbook.  As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible.  Financial contributions should only be made online using the authorized online chapter donation site [Donate](https://www.owasp.org/index.php/Local_Chapter_Supporter).  To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
+![OWASP JAX Logo](https://secure.meetupstatic.com/photos/event/7/c/e/e/600_480931982.jpeg "OWASP-JAX-Logo")
 
 ### **Welcome to OWASP Jacksonville, Fl**
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257 beginning at 630pm until 830pm.
+
 
 **Be sure to sign up at our [MeetUp page](https://www.meetup.com/OWASP-Jacksonville-Chapter/)**
 
@@ -31,9 +31,13 @@ If you haven't signed up for a community OWASP group request access today.  [Com
  Secure Ideas, Robert Half Technology Jacksonville
 
 
+
+
 ### Meeting Schedule
 
 Our next meeting will be on December 9, 2019 - Currently in need of a presenter
+
+
 
 
 #### Previous and upcomimg meetings:
