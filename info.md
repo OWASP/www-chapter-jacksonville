@@ -1,4 +1,4 @@
-### jacksonville Information
+### Jacksonville Information
 Meetings held the 2nd Monday of every month
 
 ### Social Links
