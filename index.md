@@ -44,15 +44,15 @@ Our next meeting will be on December 9, 2019 - Currently in need of a presenter
 
 October 8, 2018 - Brandi Kiehl Topic: WordClouds
 
-November 12, 2018 - Dr Johannes Ullrich Topic: Nation State Level Honeypotting: Emulating Vulnerable Web Applications at Scale Video link: https://youtu.be/2anqrtfJ1nA
+November 12, 2018 - Dr Johannes Ullrich Topic: Nation State Level Honeypotting: Emulating Vulnerable Web Applications at Scale [Video link](https://youtu.be/2anqrtfJ1nA)
 
 December 10 - OWASP Jax social ** Cancelled **
 
-January 14, 2019 - Guest Speaker Oleg Laskin , Password Cracking https://www.youtube.com/watch?v=Sz2IayEfuBg&t=741s
+January 14, 2019 - Guest Speaker Oleg Laskin , Password Cracking [Video link](https://www.youtube.com/watch?v=Sz2IayEfuBg&t=741s)
 
-February 11, 2019 - Guest Speaker Michael Marbut, Everything you want to know about passwords but we're too afraid to ask: a beginners guide to password hashing Video link : https://youtu.be/prhE150EiI4
+February 11, 2019 - Guest Speaker Michael Marbut, Everything you want to know about passwords but we're too afraid to ask: a beginners guide to password hashing [Video link](https://youtu.be/prhE150EiI4)
 
-March 11, 2019 - Guest Speaker David Fekke, this presentation will cover the BlackBerry Dynamics framework, what it can provide for mobile and enterprise security. This presentation will include a demo of a iOS application built with BlackBerry Dynamics. https://www.eventbrite.com/e/owaspjax-monthly-meeting-tickets-55975263520
+March 11, 2019 - Guest Speaker David Fekke, this presentation will cover the BlackBerry Dynamics framework, what it can provide for mobile and enterprise security. This presentation will include a demo of a iOS application built with BlackBerry Dynamics. 
 
 April 8, 2019 - Nawwar Kabbani - Modern authentication and authorization with OAUTH 2.0 and OpenID Connect
 
