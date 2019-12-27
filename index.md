@@ -71,11 +71,11 @@ October 14,2019 - Michael Dimmett - "How the web works" and using chrome develop
 
 November 11, 2019 - Meeting cancelled due to Veterans Day
 
-December 9, 2019 - Need a presenter
+December 9, 2019 - OWASP Chapter Leaders - Planning for the new year
 
-January 13, 2020 - OWASP Chapter Leaders - Planning for the new year
+January 13, 2020 - Michael Marbut - OSINT
 
-February 10, 2020 - Need a presenter
+February 10, 2020 - Jonah Goldsmith -PCI via OWASP 
 
 March 9, 2020 - Need a presenter
 
