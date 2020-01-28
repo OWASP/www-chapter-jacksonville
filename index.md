@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Home of the OWASP Jacksonville Chapter
+title: OWASP Jacksonville
 region: North America
 
 ---
