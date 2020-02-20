@@ -77,9 +77,9 @@ January 13, 2020 - Michael Marbut - OSINT
 
 February 10, 2020 - Jonah Goldsmith -PCI via OWASP 
 
-March 9, 2020 - Need a presenter
+March 9, 2020 - Paul Meharg - (Sonatype) AppSec and Opensource tool Management 
 
-April 13, 2020 - Need a presenter
+April 13, 2020 - Keith Perry - (Black Knight) Breaking down security for Android Applications 
 
 May 11, 2020 - Need a presenter
 
