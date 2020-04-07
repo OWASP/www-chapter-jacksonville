@@ -79,9 +79,9 @@ February 10, 2020 - Jonah Goldsmith -PCI via OWASP
 
 March 9, 2020 - Paul Meharg - (Sonatype) AppSec and Opensource tool Management 
 
-April 13, 2020 - Keith Perry - (Black Knight) Breaking down security for Android Applications 
+**April 13, 2020 - All meeting are on-hold due to Covid-19 social distancing 
 
-May 11, 2020 - Need a presenter
+
 
 
   
