@@ -3,6 +3,9 @@
 layout: col-sidebar
 title: OWASP Jacksonville
 region: North America
+meetup-group: OWASP-Jacksonville-Chapter
+country: USA
+postal-code: 32099
 
 ---
 
