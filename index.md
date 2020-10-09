@@ -84,8 +84,11 @@ March 9, 2020 - Paul Meharg - (Sonatype) AppSec and Opensource tool Management
 
 **April 13, 2020 - All meeting are on-hold due to Covid-19 social distancing 
 
+August 10, 2020 - Hosted online
 
+September 14, 2020 - Hosted online slides available at https://aombbb2020.academyofmine.net/playback/presentation/2.0/playback.html?meetingId=c5bb0e1eb7f6cdb87cb1632d32927ff779b220bc-1600121782941
 
+October 12. 2020 - Hosted online Travis Phillips https://training.secureideas.com/course/owasp-jax-meeting/
 
   
 
