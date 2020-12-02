@@ -1,3 +1,3 @@
 ### Leaders
-* [Kevin Johnson](mailto://kevin@secureideas.com)
-* [Larry Franklin](mailto://larry.franklin@owasp.org)
+* [Kevin Johnson](mailto:kevin.johnson@owasp.org)
+* [Larry Franklin](mailto:larry.franklin@owasp.org)
