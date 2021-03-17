@@ -90,6 +90,14 @@ September 14, 2020 - Hosted online slides available at https://aombbb2020.academ
 
 October 12. 2020 - Hosted online Travis Phillips https://training.secureideas.com/course/owasp-jax-meeting/
 
-  
+December 2020 - February 2021 meetings on hold
+
+March 8, 2021 - Meeting cancelled due to technical difficulties
+
+April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online at https://training.secureideas.com/course/owasp-jax-meeting/  Please register and join prior to 645pm. 
+
+May 10, 2021 - Presenter TBA 
+
+June 14, 2021 - Presenter TBA
 
 
