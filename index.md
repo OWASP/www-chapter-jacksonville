@@ -26,7 +26,7 @@ Our meetings are offered on the **2nd Monday of every month**. Our meetings are 
 {% assign category = site.data.events | where: "category", "Global" | first %}
    <ul>
       {% for event in category.events %}
-      <li><a href="{{event.url}}" target="_blank" rel="noopener">{{event.name}}</a></li>
+      <li><a href="https://www.meetup.com/OWASP-Jacksonville-Chapter/" target="_blank" rel="noopener">{{event.name}}</a></li>
       {% endfor %}
    </ul>### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
