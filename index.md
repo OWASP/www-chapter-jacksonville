@@ -5,10 +5,8 @@ title: OWASP Jacksonville
 region: North America
 meetup-group: OWASP-Jacksonville-Chapter
 country: USA
-postal-code: 32099
-{% raw %}
-{% https://www.meetup.com/OWASP-Jacksonville-Chapter/ group=page.meetup-group %}
-{% endraw %}---
+postal-code: 32057
+---
 
 ## **Who is OWASP**
 
