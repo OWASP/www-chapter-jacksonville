@@ -5,7 +5,7 @@ title: OWASP Jacksonville
 region: North America
 meetup-group: OWASP-Jacksonville-Chapter
 country: USA
-postal-code: 32057
+postal-code: 32257
 
 ---
 
@@ -23,7 +23,7 @@ Our meetings are offered on the **2nd Monday of every month**. Our meetings are 
 
 
 ### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group="OWASP-Jacksonville-Chapter" %}
 
 As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Larry Franklin](mailto:larry.franklin@owasp.org) to schedule a topic.
 
