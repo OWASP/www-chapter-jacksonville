@@ -22,7 +22,7 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently [virtual] (https://training.secureideas.com/course/owasp-jax-meeting/). Thanks to our sponsors at [Secure Ideas] (https://secureideas.com).
 
-<a class='timeclass'>7:00pm - 20:30 - [Meeting] (https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
+<a class='timeclass'>19:00pm - 20:30 - [Meeting] (https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
 
