@@ -20,9 +20,9 @@ OWASP Foundation is a professional association of global members and is open to 
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
-Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257.
+Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently [virtual] (https://training.secureideas.com/course/owasp-jax-meeting/). Thanks to our sponsors at [Secure Ideas] (https://secureideas.com).
 
-<a class='timeclass'>7:00pm - 20:30 - Meeting</a>
+<a class='timeclass'>7:00pm - 20:30 - Meeting(https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
 
@@ -40,16 +40,9 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 
 
 
-**Our Sponsors:**
+## Meeting Supporters
 
  Secure Ideas, Robert Half Technology Jacksonville
-
-
-
-
-### Meeting Schedule
-
-Our next meeting will be on December 9, 2019 - Currently in need of a presenter
 
 
 
@@ -109,5 +102,3 @@ April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online at https://tra
 May 10, 2021 - Presenter TBA 
 
 June 14, 2021 - Presenter TBA
-
-
