@@ -9,12 +9,12 @@ postal-code: 32257
 
 ---
 
-## **Who is OWASP**
+# **Who is OWASP**
 
 OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security.  Local chapters are run independently and guided by the Chapter_Leader_Handbook.  As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible.  Financial contributions should only be made online using the authorized online chapter donation site [Donate](https://owasp.org).  To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-<td> img src="assets/images/600_480931982.jpeg alt= "OWASP-JAX-Logo" </>
- </td>
+![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)
+
 
 ### **Welcome to OWASP Jacksonville, Fl**
 
@@ -22,7 +22,7 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently [virtual] (https://training.secureideas.com/course/owasp-jax-meeting/). Thanks to our sponsors at [Secure Ideas] (https://secureideas.com).
 
-<a class='timeclass'>7:00pm - 20:30 - Meeting(https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
+<a class='timeclass'>7:00pm - 20:30 - [Meeting] (https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
 
