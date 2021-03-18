@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Jacksonville
 region: North America
-meetup-group: OWASP-Jacksonville-Chapter
+meetup-group: owasp-jacksonville
 country: USA
 postal-code: 32257
 
@@ -21,7 +21,7 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257 beginning at 630pm until 830pm.
 
-<a class='timeclass'>7:00pm - 20:30 - Opening Session</a>
+<a class='timeclass'>7:00pm - 20:30 - Meeting</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
    <ul>
