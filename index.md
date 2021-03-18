@@ -19,39 +19,20 @@ OWASP Foundation is a professional association of global members and is open to 
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
-Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257 beginning at 630pm until 830pm.
+Our meetings are offered on the **2nd Monday of every month**. Our meetings are located at 3412 Kori Rd, Jacksonville, Fl 32257.
 
 <a class='timeclass'>7:00pm - 20:30 - Meeting</a>
 
 {% assign category = site.data.events | where: "category", "Global" | first %}
-   <ul>
-      {% for event in category.events %}
-      <li><a href="https://www.meetup.com/OWASP-Jacksonville-Chapter/" target="_blank" rel="noopener">{{event.name}}</a></li>
-      {% endfor %}
-   </ul>### Check our Upcoming Meetup Events:
+
+{% for event in category.events %}
+{{event.name}}
+{% endfor %}
+Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
-<script type='text/javascript'>
-  $(function(){
-    $(".timeclass").hover(function() {
-      utc_str = $(this).text();
-      ndx = utc_str.indexOf(':');
-      st_hour_str = utc_str.substring(0, ndx);
-      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
-      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
 
-      ndx = utc_str.lastIndexOf(':');
-      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
-      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
-      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
-      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
-      $(this).prop('title', popstr);
-    });
-  });
+<script type='text/javascript'> $(function(){ $(".timeclass").hover(function() { utc_str = $(this).text(); ndx = utc_str.indexOf(':'); st_hour_str = utc_str.substring(0, ndx); st_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0); start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); ndx = utc_str.lastIndexOf(':'); end_hour_str = utc_str.substring(ndx - 2, ndx - 1); end_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0); end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET); $(this).prop('title', popstr); }); }); </script>
 
-  
-</script>
 As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Larry Franklin](mailto:larry.franklin@owasp.org) to schedule a topic.
 
 If you haven't signed up for a community OWASP group request access today.  [Community Group](https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter)
