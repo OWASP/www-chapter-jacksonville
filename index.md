@@ -89,7 +89,7 @@ March 9, 2020 - Paul Meharg - (Sonatype) AppSec and Opensource tool Management
 
 August 10, 2020 - Hosted online
 
-September 14, 2020 - Hosted online slides available at https://aombbb2020.academyofmine.net/playback/presentation/2.0/playback.html?meetingId=c5bb0e1eb7f6cdb87cb1632d32927ff779b220bc-1600121782941
+September 14, 2020 - Hosted online slides available at [video link](https://aombbb2020.academyofmine.net/playback/presentation/2.0/playback.html?meetingId=c5bb0e1eb7f6cdb87cb1632d32927ff779b220bc-1600121782941)
 
 October 12. 2020 - Hosted online Travis Phillips https://training.secureideas.com/course/owasp-jax-meeting/
 
@@ -97,7 +97,7 @@ December 2020 - February 2021 meetings on hold
 
 March 8, 2021 - Meeting cancelled due to technical difficulties
 
-April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online at https://training.secureideas.com/course/owasp-jax-meeting/  Please register and join prior to 645pm. 
+April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online available recording at [video link](https://aombbb2020.academyofmine.net/playback/presentation/2.0/playback.html?meetingId=2486e7b8421bdd70892872e096f5d617abf5bec1-1618264657202)
 
 May 10, 2021 - Presenter TBA 
 
