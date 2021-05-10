@@ -99,6 +99,6 @@ March 8, 2021 - Meeting cancelled due to technical difficulties
 
 April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online available recording at [video link](https://aombbb2020.academyofmine.net/playback/presentation/2.0/playback.html?meetingId=2486e7b8421bdd70892872e096f5d617abf5bec1-1618264657202)
 
-May 10, 2021 - Keith Perry - Topic to TBA
+May 10, 2021 - Keith Perry - OSINT of Potential Business Partners and acquisitions [link](meet.google.com/ojq-gvsr-tjd) 
 
 June 14, 2021 - Presenter TBA
