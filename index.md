@@ -101,4 +101,4 @@ April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online available reco
 
 May 10, 2021 - Keith Perry - OSINT of Potential Business Partners and acquisitions Google meet at meet.google.com/ojq-gvsr-tjd
 
-June 14, 2021 - Presenter TBA
+June 14, 2021 - Mic Whitehorn-Gillam - 
