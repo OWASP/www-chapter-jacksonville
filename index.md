@@ -102,3 +102,5 @@ April 12, 2021 - Christian McLaughlin - OSINT Tools Hosted online available reco
 May 10, 2021 - Keith Perry - OSINT of Potential Business Partners and acquisitions Google meet at meet.google.com/ojq-gvsr-tjd
 
 June 14, 2021 - Mic Whitehorn-Gillam - Run what you brung": An intro to app testing with only the browser. [video link](https://youtu.be/xyjcGIIItGA)
+
+July 12, 2021 - Jennifer Shannon - Exploring Exploit Kits
