@@ -103,6 +103,6 @@ May 10, 2021 - Keith Perry - OSINT of Potential Business Partners and acquisitio
 
 June 14, 2021 - Mic Whitehorn-Gillam - Run what you brung": An intro to app testing with only the browser. [video link](https://youtu.be/xyjcGIIItGA)
 
-July 12, 2021 - Jennifer Shannon - Exploring Exploit Kits - Exploring exploit kits through PCAPS
+July 12, 2021 - Jennifer Shannon - Exploring Exploit Kits - Exploring exploit kits through PCAPS. [video link](https://youtu.be/iZ68r20H_L0)
 
 August 9, 2021 - Meeting Canceled
