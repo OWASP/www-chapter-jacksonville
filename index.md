@@ -106,3 +106,5 @@ June 14, 2021 - Mic Whitehorn-Gillam - Run what you brung": An intro to app test
 July 12, 2021 - Jennifer Shannon - Exploring Exploit Kits - Exploring exploit kits through PCAPS. [video link](https://youtu.be/iZ68r20H_L0)
 
 August 9, 2021 - Meeting Canceled
+
+September 13, 2021 - Presenter TBA  Zoom meeting registration required [ZOOM] (https://us06web.zoom.us/meeting/register/tZYsceuurzkvE9OdDApkjiSviwTQfhOBtheU)
