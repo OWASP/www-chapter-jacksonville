@@ -107,4 +107,6 @@ July 12, 2021 - Jennifer Shannon - Exploring Exploit Kits - Exploring exploit ki
 
 August 9, 2021 - Meeting Canceled
 
-September 13, 2021 - Presenter TBA  Zoom meeting registration required [ZOOM](https://us06web.zoom.us/meeting/register/tZYsceuurzkvE9OdDApkjiSviwTQfhOBtheU)
+September 13, 2021 - Ken Johnson and Seth Law - Code Review [video link](https://youtu.be/SSnSNPG6nLY)
+
+October 11, 2021 - Round Table discussions
