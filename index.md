@@ -109,4 +109,4 @@ August 9, 2021 - Meeting Canceled
 
 September 13, 2021 - Ken Johnson and Seth Law - Code Review [video link](https://youtu.be/SSnSNPG6nLY)
 
-October 11, 2021 - Round Table discussions
+October 11, 2021 - Round Table discussions OWASP Top 10 [video link](https://youtu.be/0BwMYtt2qro)
