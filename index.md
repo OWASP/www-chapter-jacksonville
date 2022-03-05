@@ -111,4 +111,4 @@ September 13, 2021 - Ken Johnson and Seth Law - Code Review [video link](https:/
 
 October 11, 2021 - Round Table discussions OWASP Top 10 [video link](https://youtu.be/0BwMYtt2qro)
 
-March 14, 2022 - Chris Romeo 
+March 14, 2022 - Chris Romeo - meet.google.com/ojq-gvsr-tjd
