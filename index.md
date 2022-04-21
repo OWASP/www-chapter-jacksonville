@@ -20,7 +20,7 @@ OWASP Foundation is a professional association of global members and is open to 
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
-Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently [virtual](https://training.secureideas.com/course/owasp-jax-meeting/). Thanks to our sponsors at [Secure Ideas](https://secureideas.com).
+Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently [virtual](https://training.secureideas.com/course/owasp-jax-meeting/). Thanks to our sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
 
 <a class='timeclass'>19:00pm - 20:30pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)</a>
 
@@ -42,7 +42,7 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 
 ## Meeting Supporters
 
- Secure Ideas, Robert Half Technology Jacksonville
+Robert Half Technology Jacksonville, New Horizons NE Florida
 
 
 
@@ -112,3 +112,7 @@ September 13, 2021 - Ken Johnson and Seth Law - Code Review [video link](https:/
 October 11, 2021 - Round Table discussions OWASP Top 10 [video link](https://youtu.be/0BwMYtt2qro)
 
 March 14, 2022 - Chris Romeo - meet.google.com/ojq-gvsr-tjd
+
+April 11, 2022 - Mark King Group round table discussions
+
+May 9, 2022 - Keith Perry onsite at New Horizons 7020 A. C. Skinner parkway, suite 180, jacksonville fl 32256
