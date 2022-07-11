@@ -116,3 +116,7 @@ March 14, 2022 - Chris Romeo - meet.google.com/ojq-gvsr-tjd
 April 11, 2022 - Mark King Group round table discussions
 
 May 9, 2022 - Keith Perry onsite at New Horizons 7020 A. C. Skinner parkway, suite 180, jacksonville fl 32256
+
+June 13, 2022 - Mark King - Follow up discussion on Social media and deep fake tactics.
+
+July 11, 2022 - Mark King - OpenZap and Zed Attack proxies
