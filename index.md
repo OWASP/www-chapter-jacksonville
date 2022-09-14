@@ -120,3 +120,7 @@ May 9, 2022 - Keith Perry onsite at New Horizons 7020 A. C. Skinner parkway, sui
 June 13, 2022 - Mark King - Follow up discussion on Social media and deep fake tactics.
 
 July 11, 2022 - Mark King - OpenZap and Zed Attack proxies
+
+August 8, 2022 - Mark King - Followup discussion on OpenZap
+
+September 12, 2022 - Logan Therrien
