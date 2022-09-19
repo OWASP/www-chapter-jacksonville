@@ -114,4 +114,4 @@ July 11, 2022 - Mark King - OpenZap and Zed Attack proxies
 
 August 8, 2022 - Mark King - Followup discussion on OpenZap
 
-September 12, 2022 - Logan Therrien
+September 12, 2022 - Logan Therrien - Social Engineering and SEToolkit
