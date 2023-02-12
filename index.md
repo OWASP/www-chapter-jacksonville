@@ -22,6 +22,11 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently held at New Horizons 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Thanks to our new sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
 
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+
 19:00pm - 20:30pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
 
 
