@@ -121,6 +121,6 @@ August 8, 2022 - Mark King - Followup discussion on OpenZap
 
 September 12, 2022 - Logan Therrien - Social Engineering and SEToolkit
 
-February 13, 2023 - Logan Therrien - Server Side Request Forgery
+February 13, 2023 - Logan Therrien - Server Side Request Forgery - (https://github.com/OWASP/www-chapter-jacksonville/blob/master/OWASP%20SSRF%20Feb2023.pdf) 
 
 March 13, 2023 - Guest Speaker Brian Reed - Mobile Rules the World, Jump into Mobile AppSec with the OWASP MAS Project
