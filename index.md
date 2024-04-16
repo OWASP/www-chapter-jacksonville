@@ -22,7 +22,7 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month** in room 5. Our meetings are currently held at New Horizons 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Please note that there are 2 entrances. Please use the side entrance. Thanks to our new sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
 
-![Side-Entrance](Side_Entrance.jpg)
+![Side-Entrance](assets/images/Side_Entrance.jpg)
 
 
 
