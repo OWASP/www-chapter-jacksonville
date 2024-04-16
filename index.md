@@ -8,9 +8,7 @@ country: USA
 postal-code: 32257
 
 ---
-
-&nbsp;  
-&nbsp;  
+ 
 &nbsp;  
 # **Who is OWASP?**
 
