@@ -32,7 +32,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 
 
-19:00pm - 20:30pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
+6:45pm -8:15pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
 
 
 As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Larry Franklin](mailto:larry.franklin@owasp.org) to schedule a topic.
