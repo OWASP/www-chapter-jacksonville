@@ -16,10 +16,8 @@ OWASP Foundation is a professional association of global members and is open to 
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
 ![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)
 
-&nbsp;  
 &nbsp;  
 &nbsp;  
 ## **Welcome to OWASP Jacksonville, Fl!**
@@ -32,7 +30,6 @@ Our meetings are offered on the **2nd Monday of every month** in room 5. Our mee
 &nbsp;    
 ![Side-Entrance](assets/images/Side_Entrance.jpg)     
 
-&nbsp;  
 &nbsp;  
 &nbsp;  
 
