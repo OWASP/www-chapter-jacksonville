@@ -8,15 +8,13 @@ country: USA
 postal-code: 32257
 
 ---
-\
-\
+
 # **Who is OWASP?**
 
 OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security.  Local chapters are run independently and guided by the Chapter_Leader_Handbook.  As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible.  Financial contributions should only be made online using the authorized online chapter donation site [Donate](https://owasp.org).  To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)
-\
-\
+![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)     
+
 
 ### **Welcome to OWASP Jacksonville, Fl!**
 
@@ -24,9 +22,8 @@ Owasp Jacksonville provides like minded professionals a meeting place to share, 
 
 Our meetings are offered on the **2nd Monday of every month** in room 5. Our meetings are currently held at New Horizons 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Please note that there are 2 entrances. Please use the side entrance. Thanks to our new sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
 
-![Side-Entrance](assets/images/Side_Entrance.jpg)
-\
-\
+![Side-Entrance](assets/images/Side_Entrance.jpg)     
+
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
