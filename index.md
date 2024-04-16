@@ -34,7 +34,7 @@ Our meetings are offered on the **2nd Monday of every month** in room 5. Our mee
 &nbsp;  
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
+
 {% include chapter_events.html group=page.meetup-group %}
 
 
