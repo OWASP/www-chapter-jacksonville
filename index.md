@@ -16,7 +16,8 @@ OWASP Foundation is a professional association of global members and is open to 
 ![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
 ### **Welcome to OWASP Jacksonville, Fl!**
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
