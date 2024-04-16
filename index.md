@@ -20,7 +20,12 @@ OWASP Foundation is a professional association of global members and is open to 
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
-Our meetings are offered on the **2nd Monday of every month**. Our meetings are currently held at New Horizons 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Thanks to our new sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
+Our meetings are offered on the **2nd Monday of every month** in room 5. Our meetings are currently held at New Horizons 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Please note that there are 2 entrances. Please use the side entrance. Thanks to our new sponsors at [New Horizons](https://www.newhorizons-jax.com/) .
+
+![Side-Entrance](Side_Entrance.jpg)
+
+
+
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
@@ -128,3 +133,5 @@ March 13, 2023 - Guest Speaker Brian Reed - Mobile Rules the World, Jump into Mo
 July 10, 2023 - Mark King - SSL certificate verification
 
 Sept 11, 2023 - Mark King - Living off the Land
+
+April 15, 2024 - Steven Nagle - OWASP Top 10
