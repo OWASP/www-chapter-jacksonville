@@ -22,7 +22,7 @@ OWASP Foundation is a professional association of global members and is open to 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-### **Welcome to OWASP Jacksonville, Fl!**
+## **Welcome to OWASP Jacksonville, Fl!**
 
 Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
@@ -36,7 +36,7 @@ Our meetings are offered on the **2nd Monday of every month** in room 5. Our mee
 &nbsp;  
 &nbsp;  
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -53,7 +53,7 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 Robert Half Technology Jacksonville, New Horizons NE Florida
 &nbsp;  
 &nbsp;  
-#### Previous and Upcomimg Meetings:
+## Previous and Upcomimg Meetings:
 
 April 15, 2024 - Steven Nagle - OWASP Top 10
 
