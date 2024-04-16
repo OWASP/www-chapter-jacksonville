@@ -51,7 +51,9 @@ As we enter the new year we are looking to find new ways to bring knowledge of a
 If you haven't signed up for a community OWASP group request access today.  [Community Group](https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter)
 
 
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## Meeting Supporters
 
 Robert Half Technology Jacksonville, New Horizons NE Florida
