@@ -52,7 +52,9 @@ Robert Half Technology Jacksonville, New Horizons NE Florida
 &nbsp;  
 ## Previous and Upcomimg Meetings:
 
-June 17, 2024 - Steven Nagle - OWASP Top 10
+June 17, 2024 - Steven Nagle - An Introduction to Juice Shop
+
+April 15, 2024 - Steven Nagle - OWASP Top 10
 
 Sept 11, 2023 - Mark King - Living off the Land
 
