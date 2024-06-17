@@ -60,7 +60,7 @@ August 19, 2024 - TBD
 
 July 15, 2024 - TBD
 
-June 17, 2024 - Steven Nagle - An Introduction to Juice Shop
+June 17, 2024 - Presenter Christian McLaughlin will be speaking on a topic of his choosing.
 
 April 15, 2024 - Steven Nagle - OWASP Top 10
 
