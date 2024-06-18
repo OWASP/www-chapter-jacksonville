@@ -47,7 +47,7 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 &nbsp;  
 &nbsp;  
 ## Meeting Supporters
-Robert Half Technology Jacksonville, New Horizons NE Florida
+[Star V Learning Centers](https://starv.tech/) 
 &nbsp;  
 &nbsp;  
 ## Previous and Upcomimg Meetings:
