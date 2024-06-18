@@ -60,7 +60,7 @@ August 19, 2024 - TBD
 
 July 15, 2024 - TBD
 
-June 17, 2024 - Christian McLaughlin - Docker security and how to prevent container escapes.
+June 17, 2024 - Christian McLaughlin - Docker security and how to prevent container escapes
 
 April 15, 2024 - Steven Nagle - OWASP Top 10
 
