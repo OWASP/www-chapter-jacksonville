@@ -60,7 +60,7 @@ August 19, 2024 - TBD
 
 July 15, 2024 - TBD
 
-June 17, 2024 - Presenter Christian McLaughlin will be speaking on a topic of his choosing.
+June 17, 2024 - Christian McLaughlin - Docker security and how to prevent container escapes.
 
 April 15, 2024 - Steven Nagle - OWASP Top 10
 
