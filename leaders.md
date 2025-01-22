@@ -1,5 +1,4 @@
 ### Leaders
+<!-- * [Logan Therrien](mailto:logan.therrien@owasp.org) -->
 * [Mark King](mailto:mark.king@owasp.org)
-  <!-- * [Logan Therrien](mailto:logan.therrien@owasp.org) -->
-* [Steven Nagle](http://stevenagle.info/)
-  
+* [Francois Fried](mailto:francois.fried@owasp.org)
