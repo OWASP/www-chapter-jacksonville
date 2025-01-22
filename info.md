@@ -1,5 +1,5 @@
 ### Jacksonville Information
-Meetings held the 2nd Monday of every month
+Meetings held the 3rd Monday of every month. 
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
