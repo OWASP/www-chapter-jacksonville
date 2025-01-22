@@ -22,7 +22,7 @@ OWASP Foundation is a professional association of global members and is open to 
 &nbsp;  
 ## **Welcome to OWASP Jacksonville, FL!**
 
-Owasp Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
+OWASP Jacksonville provides like minded professionals a meeting place to share, collaborate and interact with other IT security personel.  Whether you are new to IT security or a well seasoned veteran, OWASP Jacksonville provides a great networking environment to apply to everyone. 
 
 Our meetings are offered on the **3rd Monday of every month** in room 5. Our meetings are currently held at Star-V  7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Please note that there are 3 entrances; only the one perpendicular to the street is unlocked after 5pm EST. Please use the side entrance as seen in the picture. Thanks to our new sponsors at [Star V Learning Centers](https://starv.tech/) .
 
