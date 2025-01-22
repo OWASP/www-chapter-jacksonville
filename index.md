@@ -41,7 +41,7 @@ Our meetings are offered on the **3rd Monday of every month** in room 5. Our mee
 6:45pm -8:15pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
 
 
-As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Steven Nagle](mailto:steven.nagle@owasp.org) to schedule a topic.
+As we enter the new year we are looking to find new ways to bring knowledge of application security to the community.  If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Francois Fried](mailto:francois.fried@owasp.org) to schedule a topic.
 &nbsp;  
 If you haven't signed up for a community OWASP group request access today.  [Community Group](https://groups.google.com/a/owasp.org/forum/#!forum/jacksonville-chapter)
 &nbsp;  
