@@ -52,6 +52,9 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 &nbsp;  
 ## Previous and Upcomimg Meetings:
 
+{% include chapter_events.html group=page.meetup-group status='past' %}
+
+
 November 18th, 2024 - TBD
 
 October 21, 2024 - TBD
