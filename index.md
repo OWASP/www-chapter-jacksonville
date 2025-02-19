@@ -52,6 +52,9 @@ If you haven't signed up for a community OWASP group request access today.  [Com
 &nbsp;  
 ## Previous and Upcomimg Meetings:
 
+February 17th, 2025 - Francois Fried -  OWASP Essentials: An
+Overview of Key Projects and Best Practice
+
 November 18th, 2024 - TBD
 
 October 21, 2024 - TBD
