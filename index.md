@@ -19,6 +19,8 @@ Our meetings are offered on the **3rd Monday of every month** in room 5 at Star-
 Please note that there are 3 entrances; only the one perpendicular to the main street is unlocked after 5pm ET. Please use the side entrance as seen in the picture below.
   
 ![Side-Entrance](assets/images/Side_Entrance.jpg)     
+
+If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Francois Fried](mailto:francois.fried@owasp.org) to schedule a topic.
  
 ## **Who is OWASP?**
 
@@ -29,9 +31,6 @@ OWASP Foundation is a professional association of global members and is open to 
 {% include chapter_events.html group=page.meetup-group %}
 
 6:30pm -8:00pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
-
-
-If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Francois Fried](mailto:francois.fried@owasp.org) to schedule a topic.
  
 ## Chapter Supporters
 [Star V Learning Centers](https://starv.tech) 
