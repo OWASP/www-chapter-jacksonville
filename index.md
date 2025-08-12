@@ -15,7 +15,11 @@ OWASP Jacksonville provides like minded professionals a meeting place to share, 
 
 ![OWASP-Jax-Logo](assets/images/OWASP_Jacksonville.PNG)
 
-Our meetings are offered on the **3rd Monday of every month** in room 5. Our meetings are currently held at Star-V  7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256. Please note that there are 3 entrances; only the one perpendicular to the street is unlocked after 5pm EST. Please use the side entrance as seen in the picture. Thanks to our new sponsors at [Star V Learning Centers](https://starv.tech/) .
+**When:** 3rd Monday of the month at 6:30PM ET
+
+**Where:** Star V Learning Center, 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256
+
+**Details:** Please note that there are 3 entrances; only the one perpendicular to the main street is unlocked after 5pm ET. Please use the side entrance as seen in the picture below.
   
 ![Side-Entrance](assets/images/Side_Entrance.jpg)     
  
@@ -32,7 +36,7 @@ OWASP Foundation is a professional association of global members and is open to 
 
 If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Francois Fried](mailto:francois.fried@owasp.org) to schedule a topic.
  
-## Chapter Sponsors
+## Chapter Supporters
 [Star V Learning Centers](https://starv.tech/) 
 
 ## Previous and Upcomimg Meetings:
