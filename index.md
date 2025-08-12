@@ -37,7 +37,7 @@ OWASP Foundation is a professional association of global members and is open to 
 If you are interested in facilitating a discussion or passionate on a topic you would like to present, reach out to [Francois Fried](mailto:francois.fried@owasp.org) to schedule a topic.
  
 ## Chapter Supporters
-[Star V Learning Centers](https://starv.tech/) 
+[Star V Learning Centers](https://starv.tech) 
 
 ## Previous and Upcomimg Meetings:
 
