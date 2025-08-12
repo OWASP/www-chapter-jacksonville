@@ -1,4 +1,4 @@
-### Jacksonville Information
+### Meeting Information
 
 **When:** <br>
 3rd Monday of the month at 6:30PM ET
