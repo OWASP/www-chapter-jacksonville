@@ -16,7 +16,7 @@ OWASP Foundation is a professional association of global members and is open to 
 
 &nbsp;  
 &nbsp;  
-![OWASP-JAX-Logo](assets/images/600_480931982.jpeg)
+![OWASP-Jax-Logo](assets/images/OWASP_Jacksonville.PNG)
 
 &nbsp;  
 &nbsp;  
