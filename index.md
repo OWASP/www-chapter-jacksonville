@@ -33,7 +33,9 @@ OWASP Foundation is a professional association of global members and is open to 
 6:30pm -8:00pm - [Meeting](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
  
 ## Chapter Supporters
-[Star V Learning Centers](https://starv.tech) 
+[Star V Learning Centers](https://starv.tech)
+
+![Star-V-Logo](assets/images/Star_V_Logo.jpg)  
 
 ## Previous and Upcomimg Meetings:
 
