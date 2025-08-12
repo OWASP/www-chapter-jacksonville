@@ -37,7 +37,7 @@ OWASP Foundation is a professional association of global members and is open to 
 
 ![Star-V-Logo](assets/images/Star_V_Logo.jpg)  
 
-## Previous and Upcomimg Meetings:
+## Past Meetings:
 
 February 17th, 2025 - Francois Fried -  OWASP Essentials: An
 Overview of Key Projects and Best Practice
