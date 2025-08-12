@@ -1,8 +1,10 @@
 ### Jacksonville Information
 
-**When:** 3rd Monday of the month at 6:30PM ET
+**When:** <br>
+3rd Monday of the month at 6:30PM ET
 
-**Where:** Star V Learning Center, 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256
+**Where:** <br>
+Star V Learning Center, 7020 A C Skinner Pkwy UNIT 180, Jacksonville, FL 32256
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Jacksonville-Chapter/)
