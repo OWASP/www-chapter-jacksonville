@@ -39,4 +39,6 @@ OWASP Foundation is a professional association of global members and is open to 
 
 ## Past Meetings Recording:
 
-https://drive.google.com/drive/folders/1avY3oauAiB-Fvfe-S4m2VwITHlfP5Izf
+Recordings are uploaded to the drive within 48hrs from the meeting! 
+
+[Google Drive Link](https://drive.google.com/drive/folders/1avY3oauAiB-Fvfe-S4m2VwITHlfP5Izf)
