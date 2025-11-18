@@ -1,0 +1,31 @@
+community:
+  - name: chapter-jacksonville
+    platform: slack
+    url: https://owasp.slack.com/archives/CCNJN7C07
+    description: Jacksonville, Fl events and discussions
+leaders:
+  - name: Mark King
+    email: mark.king@owasp.org
+    github: NotQuiteLost
+  - name: Francois Fried
+    email: francois.fried@owasp.org
+    github: francoisfried
+location:
+  country: USA
+  country_code: US
+  region: Florida
+  city: Jacksonville
+  postal_code: '32257'
+  latitude: 30.3646523
+  longitude: -81.70409138358752
+meetup_group: OWASP-Jacksonville-Chapter
+name: OWASP Jacksonville
+repositories:
+  - name: www-chapter-jacksonville
+    url: https://github.com/OWASP/www-chapter-jacksonville
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-jacksonville
